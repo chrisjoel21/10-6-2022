@@ -1,0 +1,17 @@
+extra_10_1_4
+linkedlist with stack using templates
+
+
+POSTFIX AND PREFIX
+
+
+
+EXAM Q1 manually and using c++ wirite converting this prefix to post fix
+
+
+extra_10_1_5   do the video question
+read a string
+if it isdigit add it to the string 
+if its a operator use peek to check the priority and add it to the stack
+
+u will et extra 1+
